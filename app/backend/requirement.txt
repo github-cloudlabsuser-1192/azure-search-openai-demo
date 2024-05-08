@@ -1,0 +1,21 @@
+## Requirements
+
+This section lists the requirements for running the backend application.
+
+### Software and Tools
+
+- **Tool/Software 1**: Version details and purpose of the tool/software.
+- **Tool/Software 2**: Version details and purpose of the tool/software.
+- **Tool/Software 3**: Version details and purpose of the tool/software.
+
+### Hardware
+
+- **Hardware Requirement 1**: Details about the hardware requirement.
+- **Hardware Requirement 2**: Details about the hardware requirement.
+
+### Skills
+
+- **Skill 1**: Details about the skill required to understand/use the application.
+- **Skill 2**: Details about the skill required to understand/use the application.
+
+Please ensure that all the requirements are met before proceeding with the installation and setup of the backend application.
